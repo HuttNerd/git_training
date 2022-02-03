@@ -1,4 +1,3 @@
-Hoi, dit is even een boodschap van Bob met een plusje.
+Hoi, dit is even een boodschap van Bobby met een plusje.
 en dit is een regel toegevoegd op de master branch
 en dit is er een om divergerende branches uit te proberen
-
